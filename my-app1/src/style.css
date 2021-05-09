@@ -1,0 +1,21 @@
+body
+{
+    background-color: beige;
+}
+
+
+h1{
+    color:chocolate;
+}
+
+.button
+{
+    background-color: coral;
+    border: none;
+    color: crimson;
+    padding: 15px 30px;
+    text-align: center;
+    text-decoration: none;
+    margin-right: 5px;
+
+}
